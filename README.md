@@ -1,0 +1,2 @@
+# blog supported by rails 
+
